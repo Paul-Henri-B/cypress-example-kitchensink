@@ -6,7 +6,7 @@ env:
 node_js:
   - 12
 
-# if using Ubuntu 16 need this library
+# if using Ubuntu 16 need this library --
 # https://github.com/cypress-io/cypress-documentation/pull/1647
 addons:
   apt:
